@@ -1,4 +1,4 @@
-<h1>TEAM | TEAMMATE | SELF <br/><a href="https://kennedydefensivesolutions.com">KDS,</a> <a href="https://instagram.com/traviskennedy267">Entrepreneur,</a> <a href="https://www.github/traviskennedy267">Cybersecurity</a>
+<h1>TEAM | TEAMMATE | SELF <br/><a href="https://kennedydefensivesolutions.com">KDS,</a> <a href="https://instagram.com/traviskennedy267">Entrepreneur,</a> <a href="https://github.com/traviskennedy267">Cybersecurity</a>
 
 <h2>My Background:</h2>
 
