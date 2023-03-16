@@ -5,7 +5,6 @@
 - Served in the United States Navy as a Navy SEAL for 12 years
 - Owner of Kennedy Defensive Solutions an in persion and virtual firearms training business
 - Extremely passionate in the field of Cybersecurity
-- Attending SANS Institute
 
 <h2>What I'm focusing on</h2>
 Currently im constantly improving my knowledge in the field of Cybersecurity with a focus on the Red Team side. I am dedicating my efforts towards learning networking, python, and security fundamentals.
