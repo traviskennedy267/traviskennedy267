@@ -13,10 +13,10 @@ Currently im constantly improving my knowledge in the field of Cybersecurity wit
 <h2>Qualifications</h2>
 
 - eJPTv2
-- eWPT - In progress
+- Sec+
 - eCPPTv2 - In progress
 
-My goals for this year are to pursue reputable certifcations to prove my skill level and implement what I have learned thus far and to obtain a reputable job within the Cybersecurity field and obtain my OSCP certification.
+My goals for this year are to pursue reputable certifcations to prove my skill level and implement what I have learned thus far and to obtain a reputable job within the Cybersecurity field specializing in Penetration Testing and obtain my OSCP certification.
 
 <h2> 🤳 Connect with me:</h2>
 
