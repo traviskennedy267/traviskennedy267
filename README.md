@@ -7,7 +7,7 @@
 - Extremely passionate in the field of Cybersecurity
 
 <h2>What I'm focusing on</h2>
-Currently im constantly improving my knowledge in the field of Cybersecurity with a focus on the Red Team side. I am dedicating my efforts towards learning networking, python, and security fundamentals.
+Currently im constantly improving my knowledge in the field of Cybersecurity with a focus on penetration testing. I am dedicating my efforts towards learning networking, python, and security fundamentals.
 
 <h2>Qualifications</h2>
 
