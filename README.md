@@ -13,7 +13,8 @@ Currently im constantly improving my knowledge in the field of Cybersecurity wit
 
 - eJPTv2
 - Sec+
-- eCPPTv2 - In progress
+- B.S. Criminal Justice
+- MBA Westerns Governor University - In progress
 
 My goals for this year are to pursue reputable certifcations to prove my skill level and implement what I have learned thus far and to obtain a reputable job within the Cybersecurity field specializing in Penetration Testing and obtain my OSCP certification.
 
