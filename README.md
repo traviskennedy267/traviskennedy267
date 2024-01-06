@@ -2,7 +2,7 @@
 
 <h2>My Background:</h2>
 
-- Served in the United States Navy as a Navy SEAL for 12 years
+- Served in the U.S. Navy as a Navy SEAL for 12 years
 - Owner of Kennedy Defensive Solutions an in persion and virtual firearms training business
 - Extremely passionate in the field of Cybersecurity
 
@@ -28,20 +28,6 @@ My goals for this year are to pursue reputable certifcations to prove my skill l
 [youtube]: https://www.youtube.com/c/kennedydefensivesolutions
 [instagram]: https://www.instagram.com/traviskennedy267/
 [linkedin]: https://linkedin.com/in/traviskennedy
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!--
 **traviskennedy267/traviskennedy267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
