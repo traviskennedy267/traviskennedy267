@@ -13,6 +13,7 @@ Currently im constantly improving my knowledge in the field of Cybersecurity wit
 
 - eJPTv2
 - Sec+
+- LPI Linux Essentials
 - B.S. Criminal Justice
 - MBA Westerns Governor University - In progress
 
